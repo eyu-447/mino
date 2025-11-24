@@ -3,16 +3,6 @@
 Mino is a **minimal and fast text editor** developed in **C** using the **ncurses** library.
 It provides a simple terminal-based editing experience with support for opening, editing, and saving text files effortlessly.
 
-```
-      __  __ _      
-     |  \/  (_) ___ 
-     | |\/| | |/ _ \
-     | |  | | |  __/
-     |_|  |_|_|\___|
-```
-
-*(ASCII Art: Mino)*
-
 ---
 
 ## 🚀 Features
