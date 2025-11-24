@@ -19,7 +19,7 @@ It provides a simple terminal-based editing experience with support for opening,
 1. Clone or download the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/eyu-447/mino
 cd mino
 ```
 
