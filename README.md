@@ -45,13 +45,6 @@ Now you can run Mino from **anywhere**:
 ```bash
 mino test.txt
 ```
-
-3. Run from anywhere:
-
-```bash
-mino test.txt
-```
-
 ---
 
 ## ✍ How to Use
