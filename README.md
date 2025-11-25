@@ -20,7 +20,7 @@ It provides a simple terminal-based editing experience with support for opening,
 
 ```bash
 git clone https://github.com/eyu-447/mino
-cd mino
+cd <file_name>
 ```
 
 2. Compile the project:
