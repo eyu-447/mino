@@ -3,6 +3,7 @@
 Mino is a **minimal and fast text editor** developed in **C** using the **ncurses** library.
 It provides a simple terminal-based editing experience with support for opening, editing, and saving text files effortlessly.
 
+
 ---
 
 ## 🚀 Features
@@ -14,13 +15,27 @@ It provides a simple terminal-based editing experience with support for opening,
 
 ---
 
+## 🛠 Requirements
+
+* **gcc** (or any C compiler)
+* **ncurses** library
+
+To install ncurses on Debian/Ubuntu:
+
+```bash
+sudo apt update
+sudo apt install build-essential libncurses5-dev libncursesw5-dev
+```
+
+---
+
 ## 🏗 Build Instructions
 
 1. Clone or download the repository:
 
 ```bash
 git clone https://github.com/eyu-447/mino
-cd <file_name>
+cd mino
 ```
 
 2. Compile the project:
@@ -45,6 +60,13 @@ Now you can run Mino from **anywhere**:
 ```bash
 mino test.txt
 ```
+د``
+### Run from anywhere:
+
+```bash
+mino test.txt
+```
+
 ---
 
 ## ✍ How to Use
@@ -63,7 +85,6 @@ mino example.txt
 ## 📝 License
 
 Mino is **open-source**. You can use, modify, and distribute it freely. 🌟
-
 ---
 
 > Mino is perfect for anyone who wants a **lightweight, fast terminal-based text editor**.
